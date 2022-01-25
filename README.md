@@ -5,7 +5,7 @@
 
 <h3>Who Am I</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byungjin0120@gmail.com)](mailto:byungjin0120@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@byungjin0120)](https://velog.io/@byungjin0120)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byungjin0120@gmail.com)](mailto:byungjin0120@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@byungjin0120)](https://bbyungs.github.io/)
 
 - I’m currently learning  React, React-Native, Algorithm...
 
@@ -18,7 +18,7 @@
 
 - Code-Camp Team Project (21.10.25 ~ 21.11.24) 
 - Togather Team Project (21.11.29 ~ )
-- Wanted pre-onboarding front-end course (22.01.24 ~ 22.03.08)
+- Wanted PreOnboarding (22.01.24 ~ 22.03.08)
 
 
 <h3>Language</h3>
