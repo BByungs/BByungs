@@ -1,34 +1,53 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fbc02d&height=300&section=header&text=Byungjin%20Ahn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=E45D4C&height=240&section=header&text=Byungjin%20Ahn&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+## Hi there 👋
 
-<p align="center">
+My main skill is `Javascript(Typescript) , React`.
+
+I'm interested in `clean code` and `Reusable components`.
+
+
+### Education
+
+Codecamp BootCamp Front-end course (2021.08.30 ~ 2021.11.26) 
+
+Wanted Pre-Onboarding Front-end course (2022.01.24 ~ 2022.03.09)
+
+### Tech Stack
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&color=orange"/></a>&nbsp
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&color=blue"/></a>&nbsp
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&color=blue"/></a>&nbsp
-  <br/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql"/></a>&nbsp
 </p>
 
-<br>
+<h3 align="left">•••</h3>
 
-<h3 align="center">Experience</h3>
-<div align="center" style="text-align:center">
-  <p>Code-Camp Frontend course (21.08.30 ~ 21.11.26)</p>
-  <p>Code-Camp Team Project (21.10.25 ~ 21.11.24)</p>
-  <p>Togather Team Project (21.11.29 ~ )</p>
-  <p>Wanted PreOnboarding (22.01.24 ~ 22.03.08)</p>
-</div>
-  
-<br>
+<p align="left">
+  <a target="_blank" href="https://velog.io/@vkvkal0206"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>
+<a target="_blank" href="mailto:byungjin0120@gmail.com?subject=Hello,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+
+
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BByungs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BByungs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/> 
 
 
