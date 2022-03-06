@@ -28,8 +28,12 @@ Wanted Pre-Onboarding Front-end course (2022.01.24 ~ 2022.03.09)
 <h3 align="left">•••</h3>
 
 <p align="left">
-  <a target="_blank" href="https://velog.io/@vkvkal0206"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>
-<a target="_blank" href="mailto:byungjin0120@gmail.com?subject=Hello,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://byungjin0120.notion.site/69a5338088e0413c9888d6fcecffab54"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://velog.io/@vkvkal0206">
+    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </p>
 
 
