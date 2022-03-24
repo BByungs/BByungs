@@ -28,7 +28,7 @@ Wanted Pre-Onboarding Front-end course (2022.01.24 ~ 2022.03.09)
 <h3 align="left">•••</h3>
 
 <p align="left">
-  <a target="_blank" href="https://byungjin0120.notion.site/4fa51d28ce184bdf80b02f388d3f7c21"> 
+  <a target="_blank" href="https://byungjin0120.notion.site/d11a40fce0bf47b8b7f5b683f905ffa9"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a target="_blank" href="https://velog.io/@vkvkal0206">
