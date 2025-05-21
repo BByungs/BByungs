@@ -29,12 +29,12 @@ I'm Byungjin Ahn, a Frontend developer. 🌱
 <h3 align="left">•••</h3>
 
 <p align="left">
-  <!-- <a target="_blank" href="https://byungjin0120.notion.site/d11a40fce0bf47b8b7f5b683f905ffa9"> 
+<!--   <a target="_blank" href="https://byungjin0120.notion.site/d11a40fce0bf47b8b7f5b683f905ffa9"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a> -->
-  <a target="_blank" href="https://devahn.vercel.app/">
+<!--   <a target="_blank" href="https://devahn.vercel.app/">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
+  </a> -->
 </p>
  
 
